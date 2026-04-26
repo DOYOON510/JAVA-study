@@ -1,4 +1,4 @@
-package src.week2.oop;
+package src.studyjava.week2.oop;
 
 public class Student {
     // 필드

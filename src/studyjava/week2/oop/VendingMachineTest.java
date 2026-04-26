@@ -1,4 +1,4 @@
-package src.week2.oop;
+package src.studyjava.week2.oop;
 
 class VendingMachine {
     // 필드

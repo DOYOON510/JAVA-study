@@ -1,4 +1,4 @@
-package src.week2.oop;
+package src.studyjava.week2.oop;
 
 public class BankTest {
     public static void main(String[] args) {
