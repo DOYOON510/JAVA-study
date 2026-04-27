@@ -1,4 +1,4 @@
-package src.studyjava.week2.array;
+package src.studyJava.week2.array;
 
 import java.util.Arrays;
 
