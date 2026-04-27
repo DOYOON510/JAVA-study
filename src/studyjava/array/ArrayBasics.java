@@ -1,4 +1,4 @@
-package src.studyJava.week2.array;
+package array;
 
 public class ArrayBasics {
     public static void main(String[] args) {

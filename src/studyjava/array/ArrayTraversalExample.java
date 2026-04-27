@@ -1,4 +1,4 @@
-package src.studyJava.week2.array;
+package array;
 
 public class ArrayTraversalExample {
     public static void main(String[] args) {

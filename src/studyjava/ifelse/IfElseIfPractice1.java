@@ -1,4 +1,4 @@
-package week1;
+package ifelse;
 
 public class IfElseIfPractice1 {
     public static void main(String[] args) {
