@@ -3,7 +3,7 @@
 
 백엔드 개발 역량을 쌓기 위해 학습한 내용들을 정리하는 저장소입니다.  
 기초적인 프로그래밍부터 웹 애플리케이션 개발, API 설계, 배포 환경까지 단계적으로 학습하고 기록합니다.  
-개념 정리는 블로그👉[이곳](https://yooninging.tistory.com/category/JAVA)에 합니다!  
+개념 정리는 블로그👉[이곳](https://yooninging.tistory.com)에 합니다!  
 
 ## ✏️ 공부 내용
 ✅ JAVA  
