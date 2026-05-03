@@ -7,7 +7,7 @@
 
 ## ✏️ 공부 내용
 ✅ JAVA  
-✅ DATABASE  
+✅ DATABASE 👉 [기초정리1](https://yooninging.tistory.com/126), [기초정리2](https://yooninging.tistory.com/127)  
 ✅ 
 
 ---
